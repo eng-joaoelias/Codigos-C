@@ -15,10 +15,10 @@ else y--;
 
 RESOLUÇÃO
 
-else x = x + 2; -> x = 7
-y = 5
+if ((x < 6) && (y < x)) { ->> x = 6; y = 3
+y = 6
 
-y=4
-y=3
+x = 7
+y=5
 
-Resp.: x = 7; y = 3
+Resp.: x = 7; y = 5
