@@ -8,11 +8,12 @@ O repositório está organizado da seguinte forma:
 
 1. **Lista-1**: Contém os exercícios da primeira lista.
 2. **Lista-2**: Contém os exercícios da segunda lista.
+3. **Lista-3**: Contém os exercícios da terceira lista.
    ...
    
 Dentro de cada pasta de lista, você encontrará os arquivos com as soluções de cada questão. Por exemplo:
 
-- `ex001.c`: Representa a resolução da primeira questão da lista 1.
+- `ex001.c`: Representa a resolução da primeira questão da lista que você abriu a pasta.
 
 ## Como Utilizar
 
