@@ -7,7 +7,7 @@ calcule esta média.
 #include <stdio.h>
 #include <stdlib.h>
 
-#define NUM_PROD 3
+#define NUM_PROD 20
 
 void clearBuffer() {
     while (getchar() != '\n');
